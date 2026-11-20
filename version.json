@@ -1,4 +1,4 @@
 {
   "android": { "build": 10, "min": 1 },
-  "ios": { "build": 21, "min": 1 }
+  "ios": { "build": 22, "min": 1 }
 }
